@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1466708677196" clover="4.0.6">
-   <project name="Sample Embedded Jetty Application 0.1" timestamp="1466708673122">
+<coverage generated="1466709653984" clover="4.0.6">
+   <project name="A maven project with some advance sample java code 0.1" timestamp="1466709650860">
       <metrics coveredelements="53" complexity="14" loc="182" methods="13" classes="4" statements="38" packages="2" coveredconditionals="2" coveredmethods="13" elements="53" ncloc="123" files="4" conditionals="2" coveredstatements="38"/>
       <package name="com.example.sample.rest">
          <metrics coveredelements="44" complexity="12" loc="139" methods="11" classes="3" statements="31" coveredconditionals="2" coveredmethods="11" elements="44" ncloc="95" files="3" conditionals="2" coveredstatements="31"/>
@@ -85,27 +85,27 @@
          </file>
       </package>
    </project>
-   <testproject name="Sample Embedded Jetty Application 0.1" timestamp="1466708673122">
+   <testproject name="A maven project with some advance sample java code 0.1" timestamp="1466709650860">
       <metrics coveredelements="16" complexity="5" loc="44" methods="5" classes="1" statements="11" packages="1" coveredconditionals="0" coveredmethods="5" elements="16" ncloc="35" files="1" conditionals="0" coveredstatements="11"/>
       <package name="com.example.sample.rest">
          <metrics coveredelements="16" complexity="5" loc="44" methods="5" classes="1" statements="11" coveredconditionals="0" coveredmethods="5" elements="16" ncloc="35" files="1" conditionals="0" coveredstatements="11"/>
          <file path="/Users/vishyoo/Documents/personal/git/example-javacode/src/test/java/com/example/sample/rest/ServerTest.java" name="ServerTest.java">
             <metrics coveredelements="16" coveredconditionals="0" complexity="5" loc="44" coveredmethods="5" methods="5" elements="16" classes="1" ncloc="35" statements="11" conditionals="0" coveredstatements="11"/>
             <class name="ServerTest">
-               <metrics coveredelements="16" complexity="5" methods="5" testruns="2" statements="11" coveredconditionals="0" coveredmethods="5" elements="16" testfailures="0" testduration="0.305" conditionals="0" coveredstatements="11" testpasses="2"/>
+               <metrics coveredelements="16" complexity="5" methods="5" testruns="2" statements="11" coveredconditionals="0" coveredmethods="5" elements="16" testfailures="0" testduration="0.307" conditionals="0" coveredstatements="11" testpasses="2"/>
             </class>
             <line complexity="1" visibility="public" signature="setup() : void" num="15" count="2" type="method"/>
             <line num="17" count="2" type="stmt"/>
             <line complexity="1" visibility="public" signature="tearDown() : void" num="20" count="2" type="method"/>
             <line num="22" count="2" type="stmt"/>
-            <line complexity="1" visibility="public" signature="testGetPing() : void" num="25" testsuccess="true" count="1" testduration="0.304" type="method"/>
+            <line complexity="1" visibility="public" signature="testGetPing() : void" num="25" testsuccess="true" count="1" testduration="0.305" type="method"/>
             <line num="27" count="1" type="stmt"/>
             <line num="28" count="1" type="stmt"/>
             <line num="29" count="1" type="stmt"/>
             <line num="30" count="1" type="stmt"/>
             <line num="31" count="1" type="stmt"/>
             <line num="32" count="1" type="stmt"/>
-            <line complexity="1" visibility="public" signature="testServerStop() : void" num="35" testsuccess="true" count="1" testduration="0.001" type="method"/>
+            <line complexity="1" visibility="public" signature="testServerStop() : void" num="35" testsuccess="true" count="1" testduration="0.002" type="method"/>
             <line num="37" count="1" type="stmt"/>
             <line num="38" count="1" type="stmt"/>
             <line complexity="1" visibility="private" signature="start() : void" num="41" count="2" type="method"/>

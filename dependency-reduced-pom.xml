@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example.sample</groupId>
-  <artifactId>example-jetty-app</artifactId>
-  <name>Sample Embedded Jetty Application</name>
+  <artifactId>example-javacode</artifactId>
+  <name>A maven project with some advance sample java code</name>
   <version>0.1</version>
-  <description>Sample Embedded Jetty Application</description>
+  <description>A maven project with some advance sample java code</description>
   <build>
     <extensions>
       <extension>

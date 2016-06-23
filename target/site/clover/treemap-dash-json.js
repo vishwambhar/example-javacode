@@ -1,4 +1,4 @@
-var treeMapJson = {"id":"Clover database Thu Jun 23 2016 12:04:30 PDT0","name":"","data":{
+var treeMapJson = {"id":"Clover database Thu Jun 23 2016 12:20:48 PDT0","name":"","data":{
     "$area":53.0,"$color":100.0,"title":" 53 Elements, 100% Coverage"},
   "children":[{"id":"com.example.sample.rest0","name":
       "com.example.sample.rest","data":{"$area":44.0,"$color":100.0,"title":
