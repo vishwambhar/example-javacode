@@ -3,12 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example.sample</groupId>
-    <artifactId>example-jetty-app</artifactId>
+    <artifactId>example-javacode</artifactId>
     <version>0.1</version>
     <packaging>jar</packaging>
-    <name>Sample Embedded Jetty Application</name>
+    <name>A maven project with some advance sample java code</name>
 
-    <description>Sample Embedded Jetty Application</description>
+    <description>A maven project with some advance sample java code</description>
 
     <properties>
         <buildtype>release</buildtype>
