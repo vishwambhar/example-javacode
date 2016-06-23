@@ -13,3 +13,5 @@ mvn clean package
 java -jar target/example-javacode-0.1.jar; starts jetty server
 curl http://localhost:4080/ping
 ```
+
+##  --  Happy Learning!!!
